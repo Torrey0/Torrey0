@@ -6,9 +6,9 @@ I am a Computer Engineering and Math student at Cal Poly, San Luis Obispo. I am 
 
 ### Relevant HDL and Firmware Projects
 
-* **[PROVE](https://github.com/PROVELab/MilaMonorepo/tree/torrey_vitals_telem):** <- My current branch, a WIP. *(Main repository: [MilaMonorepo](https://github.com/PROVELab/MilaMonorepo))*
+* **[PROVE](https://github.com/PROVELab/MilaMonorepo):** Firmware and dashboards for Prove's long distance electric sportscar
 
-* **[BCrypt Hardware Accelerator](https://github.com/Torrey0/BCrpyt_Basys3/tree/main):** Basys-3 FPGA design for brute-forcing BCrypt hashes in parallel.
+* **[BCrypt Hardware Accelerator](https://github.com/Torrey0/BCrpyt_Basys3/tree/main):** Basys-3 FPGA design for brute-forcing BCrypt hashes.
 
 * **[RISC-V Microprocessor](https://github.com/Torrey0/T2_Otter):** 5-Stage RV32I pipelined microprocessor with direct-mapped instruction cache, and set-associative data cache.
 
